@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ---
 ~~删除线~~
 ***
+##Tech Stack
+![python](https://img.shields.io/badge/-python-3776AB?style=flat&logo=python&logoColor=white)
